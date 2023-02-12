@@ -1,0 +1,14 @@
+@media (max-width: 600px) {
+  .grid-3-c {
+    grid-template-columns: 1fr;
+gap: 12px;
+  }
+  .boxs {
+    padding: 12px 12px;
+  }
+  .box {
+    border-radius: 6px;
+    
+  }
+ 
+}
